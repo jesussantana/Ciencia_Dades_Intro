@@ -18,7 +18,7 @@ Benvinguts i benvingudes al curs “Introducció a la ciència de dades”!
 
 El curs es divideix en quatre mòduls:
 
-- 1. Introducció a la ciència de dades i a l’entorn de treball Jupyter Notebook
+1. Introducció a la ciència de dades i a l’entorn de treball Jupyter Notebook
 
   - Què és la ciència de dades i quines aplicacions té?
   - Conceptes bàsics de la ciència de dades
@@ -27,7 +27,7 @@ El curs es divideix en quatre mòduls:
   - Idees clau: Introducció a la ciència de dades i a l’entorn de treball Jupyter Notebook
  
 
-- 2. Exploració inicial a les dades
+2. Exploració inicial a les dades
 
   - Exploració bàsica de dades
   - Videotutorial (I): exemple d’exploració de dades
@@ -39,7 +39,7 @@ El curs es divideix en quatre mòduls:
   - Idees clau: Exploració inicial a les dades
  
 
-- 3. Visualització de dades amb Matplotlib
+3. Visualització de dades amb Matplotlib
 
   - Gràfiques lineals i de barres
   - Scatter plots
@@ -49,7 +49,7 @@ El curs es divideix en quatre mòduls:
   - Idees clau: Visualització de dades amb Matplotlib
  
 
-- 4. Anàlisis de dades amb Panda
+4. Anàlisis de dades amb Panda
 
   - Crear, llegir i escriure una taula de dades
   - Indexar, seleccionar i filtrar
